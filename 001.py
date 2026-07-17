@@ -1,3 +1,5 @@
+#day 2
+
 print("Welcome to the tip calculator!")
 total= float(input("what was the Total bill? $"))
 tip_per= float(input("How much tip would you like to give? 10, 12, or 15? "))
